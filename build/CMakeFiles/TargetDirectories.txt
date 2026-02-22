@@ -1,3 +1,0 @@
-/home/gx/Desktop/addfuck/build/CMakeFiles/addfuck.dir
-/home/gx/Desktop/addfuck/build/CMakeFiles/edit_cache.dir
-/home/gx/Desktop/addfuck/build/CMakeFiles/rebuild_cache.dir

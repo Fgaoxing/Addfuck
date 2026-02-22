@@ -1,1 +1,0 @@
-/usr/bin/c++  -O2 -s -ffunction-sections -fdata-sections -O3 -DNDEBUG  -Wl,--gc-sections -Wl,--dependency-file=CMakeFiles/addfuck.dir/link.d CMakeFiles/addfuck.dir/main.cpp.o CMakeFiles/addfuck.dir/vm.cpp.o CMakeFiles/addfuck.dir/reader.cpp.o -o addfuck
